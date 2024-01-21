@@ -14,6 +14,4 @@ These notebook serve as in-depth studies in their respective fields, utilising m
 
 Thank you
 
-Wisdom Adike
-University of Salford
-@00714423
+Wisdom Adike | University of Salford | @00714423
